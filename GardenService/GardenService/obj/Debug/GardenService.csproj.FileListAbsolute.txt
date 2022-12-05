@@ -1,0 +1,7 @@
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\GardenService\GardenService\bin\GardenService.dll.config
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\GardenService\GardenService\bin\GardenService.dll
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\GardenService\GardenService\bin\GardenService.pdb
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\GardenService\GardenService\obj\Debug\GardenService.csproj.AssemblyReference.cache
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\GardenService\GardenService\obj\Debug\GardenService.csproj.CoreCompileInputs.cache
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\GardenService\GardenService\obj\Debug\GardenService.dll
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\GardenService\GardenService\obj\Debug\GardenService.pdb
