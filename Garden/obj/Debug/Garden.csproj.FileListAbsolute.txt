@@ -1,0 +1,7 @@
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\Garden\bin\Garden.dll.config
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\Garden\bin\Garden.dll
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\Garden\bin\Garden.pdb
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\Garden\obj\Debug\Garden.csproj.AssemblyReference.cache
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\Garden\obj\Debug\Garden.csproj.CoreCompileInputs.cache
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\Garden\obj\Debug\Garden.dll
+C:\Users\dyan\Documents\GitHub\wcf-assignment-3\Garden\obj\Debug\Garden.pdb
